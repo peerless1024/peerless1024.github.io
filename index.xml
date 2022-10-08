@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WeiYi&#39;s Blog</title>
+        <link>https://peerless1024.github.io/</link>
+        <description>WeiYi&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wy984178308@gmail.com (Yi Wei)</managingEditor>
+            <webMaster>wy984178308@gmail.com (Yi Wei)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Oct 2022 22:58:56 &#43;0800</lastBuildDate>
+            <atom:link href="https://peerless1024.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Kubernetes动态调度器 Dynamic Scheduler</title>
+    <link>https://peerless1024.github.io/dynamic-k8s-scheduler/</link>
+    <pubDate>Fri, 07 Oct 2022 22:15:29 &#43;0800</pubDate>
+    <author>Yi Wei</author>
+    <guid>https://peerless1024.github.io/dynamic-k8s-scheduler/</guid>
+    <description><![CDATA[<p>Kubernetes动态调度器相关研究</p>]]></description>
+</item>
+<item>
+    <title>2022年国庆有感</title>
+    <link>https://peerless1024.github.io/essay-221007/</link>
+    <pubDate>Fri, 07 Oct 2022 22:58:56 &#43;0800</pubDate>
+    <author>Yi Wei</author>
+    <guid>https://peerless1024.github.io/essay-221007/</guid>
+    <description><![CDATA[这个国庆是一个慵懒的假期 日常 按时进食, 撸猫, 铲屎, 散散步&hellip; 大漂亮 学习 最近工作有个项目是shell编程的项目, 之前对于shell]]></description>
+</item>
+</channel>
+</rss>
